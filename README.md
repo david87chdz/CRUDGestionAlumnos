@@ -36,6 +36,7 @@ if ($conn->connect_error) {
 }
 ?>
 ```
-3.Importa la estructura de la base de datos desde el archivo SQL proporcionado [`Controlador/Dump/database.sql`](./Controlador/Dump/database.sql).
 
-4.Inicia tu servidor web y abre el sistema en tu navegador.
+3.Importa la estructura de la base de datos desde el archivo SQL proporcionado [`database.sql`](./Controlador/Dump/database.sql).
+
+4.Inicia tu servidor web y abre el sistema en tu navegador. Accede al sistema comenzando con index.html.
