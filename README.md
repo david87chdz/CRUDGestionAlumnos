@@ -23,7 +23,7 @@ Este es un sistema CRUD (Create, Read, Update, Delete) desarrollado en PHP para 
    ```bash
    git clone https://github.com/tu_usuario/crud-php-proyectos.git
 
-2.Configura la conexión a la base de datos editando el archivo [`Controlador/Config/biblioteca.php`](./Controlador/Config/biblioteca.php) y ajustando los parámetros de conexión:
+2.Configura la conexión a la base de datos editando el archivo [`biblioteca.php`](./Controlador/Config/biblioteca.php) y ajustando los parámetros de conexión:
 ```bash
 <?php
 $host = 'localhost';
