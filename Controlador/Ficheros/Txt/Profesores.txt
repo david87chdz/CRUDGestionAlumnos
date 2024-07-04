@@ -1,0 +1,30 @@
+TUTOR:
+Id_tutor: 1
+DNI: 41402330K
+Apellido1: García
+Apellido2: Galan
+Email: 
+Telefono: 123123212
+Título proyecto: Gestor Tareas
+Descripción proyecto: Gestor de tareas y eventos
+
+TUTOR:
+Id_tutor: 2
+DNI: 00000020C
+Apellido1: Gascón
+Apellido2: Sorribas
+Email: juan@gascon.iu
+Telefono: 455855
+Título proyecto: jkkks
+Descripción proyecto: Ksakjss
+
+TUTOR:
+Id_tutor: 5
+DNI: 41402303A
+Apellido1: Asd
+Apellido2: 
+Email: 
+Telefono: 
+Título proyecto: 
+Descripción proyecto: 
+

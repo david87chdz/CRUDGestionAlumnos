@@ -1,0 +1,120 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url(../img/acustica.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Asegura que el cuerpo ocupe al menos el 100% del alto de la ventana */
+}
+
+header, footer {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+header {
+    margin-bottom: auto; /* Empuja el contenido hacia abajo */
+}
+
+footer {
+    margin-top: auto; /* Empuja el contenido hacia arriba */
+    color: #fff;
+}
+
+main {
+    margin: 20px auto;
+
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    color: black;
+    width: 80%;
+    max-width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border-radius: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.1);
+    opacity: 0.8;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: rgb(102, 68, 49);
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #2980b9;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(149, 108, 86);
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(213, 180, 155);
+}
+
+button {
+    background-color: blanchedalmond;
+    display: inline-block;
+    color: black;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #dcdcdc;
+}
+
+table, button {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+a {
+    color: black;
+}
+
+#inicio a,#desconectar a{
+    display: inline-block;
+}
+
+#inicio ,#desconectar {
+    display: inline-block;
+}
+
+#desconectar {
+    background-color: #e74c3c;
+}
+
+#desconectar:hover {
+    background-color: #c0392b;
+}
+ h2{
+    color: blanchedalmond;
+ }

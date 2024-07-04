@@ -1,0 +1,56 @@
+PROYECTO:
+Id_proyecto: 2
+Título: Gestor Tareas
+Descripción: Gestor de tareas y eventos
+Ciclo: daw
+Modulo1: DAWES
+Modulo2: DAWEC
+Modulo3: DIW
+Convocatoria: 
+Fecha exposición: 0000-00-00
+Nota: 0
+Alumno: David Cerezo Hernández
+Tutor: Raquel Garcia Galan
+
+PROYECTO:
+Id_proyecto: 4
+Título: asd
+Descripción: ñklhkabsd jhsag,df iuSAMNDFB KJ
+Ciclo: 0
+Modulo1: 2
+Modulo2: 3
+Modulo3: 0
+Convocatoria: 
+Fecha exposición: 2023-12-30
+Nota: 0
+Alumno: Asd Jjjj Dd
+Tutor:   
+
+PROYECTO:
+Id_proyecto: 5
+Título: jkkks
+Descripción: Ksakjss
+Ciclo: daw
+Modulo1: DAWEC
+Modulo2: DAWES
+Modulo3: DIW
+Convocatoria: 
+Fecha exposición: 2023-12-30
+Nota: 9
+Alumno: Miguel Cuevas Burón
+Tutor: Juan Antonio Gascon Sorribas
+
+PROYECTO:
+Id_proyecto: 6
+Título: Dfsdf. Kkn asd k salkdl
+Descripción: Dsffsdf sdfsñdpps d skdifop,  sdñfosjdofl,. Sd. S. F sdf. Asdasd. . Asdasd. . Asdasd
+Ciclo: 0
+Modulo1: DAWES
+Modulo2: DAWES
+Modulo3: 
+Convocatoria: 
+Fecha exposición: 0000-00-00
+Nota: 0
+Alumno:   sa
+Tutor:   
+

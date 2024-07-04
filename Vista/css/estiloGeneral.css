@@ -1,0 +1,60 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url(../img/acustica.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+header, footer {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  position: absolute;
+}
+
+header {
+  
+  top: 0;
+}
+
+footer {
+  bottom: 0;
+}
+
+button {
+  background-color: #cc9966; /* Ajusta según tu preferencia de tono tierra */
+  color: #fff;
+  padding: 30px; /* Mayor relleno del botón */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin: 10px;
+  text-decoration: none; /* Sin decoración en el enlace */
+}
+
+button:hover {
+  background-color: #996633; /* Sombra más oscura al pasar el ratón */
+}
+
+#desconectar {
+  background-color: #e74c3c; /* Color para el botón de desconectar */
+}
+
+#desconectar:hover {
+  background-color: #c0392b; /* Sombra más oscura al pasar el ratón */
+}
+
+
+a{
+  text-decoration: none;
+  color: bla;
+}
