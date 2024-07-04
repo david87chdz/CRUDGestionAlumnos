@@ -24,7 +24,7 @@ Este es un sistema CRUD (Create, Read, Update, Delete) desarrollado en PHP para 
    git clone https://github.com/tu_usuario/crud-php-proyectos.git
 
 2.Configura la conexión a la base de datos editando el archivo en la siguiente ruta Controlador/Config/biblioteca.php y ajustando los parámetros de conexión:
-
+```bash
 <?php
 $host = 'localhost';
 $username = 'tu_usuario_db';
@@ -35,7 +35,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 ?>
-
+```
 3.Importa la estructura de la base de datos desde el archivo SQL proporcionado Controlador/Dump/database.sql).
 
 4.Inicia tu servidor web y abre el sistema en tu navegador.
